@@ -1,0 +1,5 @@
+C:\Users\abssacg\Documents\Tech Ed\Assessment\Investec\tech-test-master\tech-test-master\TechTest\AnyCompany.Data\bin\Debug\AnyCompany.Data.dll
+C:\Users\abssacg\Documents\Tech Ed\Assessment\Investec\tech-test-master\tech-test-master\TechTest\AnyCompany.Data\bin\Debug\AnyCompany.Data.pdb
+C:\Users\abssacg\Documents\Tech Ed\Assessment\Investec\tech-test-master\tech-test-master\TechTest\AnyCompany.Data\obj\Debug\AnyCompany.Data.csproj.CoreCompileInputs.cache
+C:\Users\abssacg\Documents\Tech Ed\Assessment\Investec\tech-test-master\tech-test-master\TechTest\AnyCompany.Data\obj\Debug\AnyCompany.Data.dll
+C:\Users\abssacg\Documents\Tech Ed\Assessment\Investec\tech-test-master\tech-test-master\TechTest\AnyCompany.Data\obj\Debug\AnyCompany.Data.pdb
